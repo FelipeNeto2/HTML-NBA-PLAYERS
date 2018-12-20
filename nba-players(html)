@@ -1,0 +1,50 @@
+<!DOCTYPE HTML>
+
+<html>
+    <head>
+        <title>NBA PLAYERS</title>
+        <meta charset="utf-8">
+    
+        <style>
+            body {
+                background-color:rgb(240, 20, 12);
+            }
+            
+            .titulo{
+                color: rgb(240, 166, 19);
+            }
+            
+            .inutil{
+                color:rgb(245, 233, 245);
+            }
+            
+            
+        </style>
+            
+    </head>
+
+    <body>
+        
+    <h1 class="titulo">Basketball positions</h1>    
+        
+    <ul class="inutil">
+        <li>point guard 
+        <li>shooting guard
+        <li>small forward
+        <li>power forward 
+        <li>center
+    </ul>    
+        
+    <h2 class="titulo">Top 5 NBA current players</h2>
+    
+    <ol class="inutil">
+       <li>Lebron James
+       <li>Kevin Durant
+       <li>Stephen Curry
+       <li>Kawhi Leonard
+       <li>Giannis Antetokounmpo
+    </ol>
+        
+    </body>
+
+</html>
